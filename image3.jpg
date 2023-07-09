@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html
+  dir="LTR"
+  lang="en"
+>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="_csrf" content="9e18e377-3140-4280-ae4b-6f692a83fe1e" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1" />
+    <meta name="google-site-verification" content="GmHfooq7jctbhvRUSGtLpE_XImtIATNo0iLofqbb16I" />
+    <meta name="google-site-verification" content="pmHhB6aGnjhY8K733ElVmlTDLHz7qzkA6NA__G40QUc" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="apple-touch-icon" content="https://assets.nflxext.com/en_us/layout/ecweb/netflix-app-icon_152.jpg" />
+    <link rel="apple-touch-icon" sizes="152x152" href="https://assets.nflxext.com/en_us/layout/ecweb/netflix-app-icon_152.jpg" />
+
+    
+    <title>What is Netflix?</title>
+
+    <link rel="shortcut icon" href="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico" />
+    <link rel="stylesheet" href="https://help.nflxext.com/helpcenter/common_a40eaf8f4c9c5e1ef080.css" />
+
+    
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="87b6a5c0-0104-4e96-a291-092c11350111"></script>
+    <script type="text/javascript">
+        function OptanonWrapper() {}
+    </script>
+
+
+    
+    
+            <meta name="description" content="With a Netflix membership, you can watch award-winning TV shows, movies and more on an internet-connected device." />
+            <meta property="og:description" content="With a Netflix membership, you can watch award-winning TV shows, movies and more on an internet-connected device." />
+        
+        
+            <meta property="og:site_name" content="Help Center" />
+            <meta property="og:type" content="website" />
+            <meta property="og:title" content="What is Netflix?" />
+            <meta property="og:url" content="https://help.netflix.com/en/node/412" />
+            <link rel="shortlink" href="https://help.netflix.com/en/node/412" />
+            <link rel="canonical" href="https://help.netflix.com/en/node/412" />
+
+            
+            
+        
+        
+        
+            <link rel="alternate" hreflang="de" href="https://help.netflix.com/de/node/412" />
+        
+            <link rel="alternate" hreflang="hi" href="https://help.netflix.com/hi/node/412" />
+        
+            <link rel="alternate" hreflang="fi" href="https://help.netflix.com/fi/node/412" />
+        
+            <link rel="alternate" hreflang="ru" href="https://help.netflix.com/ru/node/412" />
+        
+            <link rel="alternate" hreflang="pt" href="https://help.netflix.com/pt/node/412" />
+        
+            <link rel="alternate" hreflang="fil" href="https://help.netflix.com/fil/node/412" />
+        
+            <link rel="alternate" hreflang="hr" href="https://help.netflix.com/hr/node/412" />
+        
+            <link rel="alternate" hreflang="fr" href="https://help.netflix.com/fr/node/412" />
+        
+            <link rel="alternate" hreflang="zh-cn" href="https://help.netflix.com/zh-cn/node/412" />
+        
+            <link rel="alternate" hreflang="hu" href="https://help.netflix.com/hu/node/412" />
+        
+            <link rel="alternate" hreflang="uk" href="https://help.netflix.com/uk/node/412" />
+        
+            <link rel="alternate" hreflang="id" href="https://help.netflix.com/id/node/412" />
+        
+            <link rel="alternate" hreflang="sv" href="https://help.netflix.com/sv/node/412" />
+        
+            <link rel="alternate" hreflang="ko" href="https://help.netflix.com/ko/node/412" />
+        
+            <link rel="alternate" hreflang="zh-tw" href="https://help.netflix.com/zh-tw/node/412" />
+        
+            <link rel="alternate" hreflang="ms" href="https://help.netflix.com/ms/node/412" />
+        
+            <link rel="alternate" hreflang="el" href="https://help.netflix.com/el/node/412" />
+        
+            <link rel="alternate" hreflang="en" href="https://help.netflix.com/en/node/412" />
+        
+            <link rel="alternate" hreflang="es-es" href="https://help.netflix.com/es-es/node/412" />
+        
+            <link rel="alternate" hreflang="it" href="https://help.netflix.com/it/node/412" />
+        
+            <link rel="alternate" hreflang="es" href="https://help.netflix.com/es/node/412" />
+        
+            <link rel="alternate" hreflang="fr-ca" href="https://help.netflix.com/fr-ca/node/412" />
+        
+            <link rel="alternate" hreflang="cs" href="https://help.netflix.com/cs/node/412" />
+        
+            <link rel="alternate" hreflang="ar" href="https://help.netflix.com/ar/node/412" />
+        
+            <link rel="alternate" hreflang="pt-pt" href="https://help.netflix.com/pt-pt/node/412" />
+        
+            <link rel="alternate" hreflang="vi" href="https://help.netflix.com/vi/node/412" />
+        
+            <link rel="alternate" hreflang="th" href="https://help.netflix.com/th/node/412" />
+        
+            <link rel="alternate" hreflang="nb" href="https://help.netflix.com/nb/node/412" />
+        
+            <link rel="alternate" hreflang="ja" href="https://help.netflix.com/ja/node/412" />
+        
+            <link rel="alternate" hreflang="pl" href="https://help.netflix.com/pl/node/412" />
+        
+            <link rel="alternate" hreflang="da" href="https://help.netflix.com/da/node/412" />
+        
+            <link rel="alternate" hreflang="he" href="https://help.netflix.com/he/node/412" />
+        
+            <link rel="alternate" hreflang="ro" href="https://help.netflix.com/ro/node/412" />
+        
+            <link rel="alternate" hreflang="nl" href="https://help.netflix.com/nl/node/412" />
+        
+            <link rel="alternate" hreflang="tr" href="https://help.netflix.com/tr/node/412" />
+        
+  </head>
+  <body class="page-article  has-related-articles">
+    
+
+
+
+
+    
+    
+
+
+
+    <div class="global-container">
+      
+      
+
+
+
+
+
+<div class="global-header">
+    <div class="overlay"></div>
+
+    <div class="container">
+        <div class="inner-container">
+            <div class="branding">
+                <a class="logo nf-logo-link n-logo" href="https://netflix.com" title="Netflix">
+                    <svg class="netflix-svg" width="88px" height="32px" viewBox="0 0 111 30" version="1.1" xmlns="http://www.w3.org/2000/svg">
+                        <path fill="#e50914" d="M105.062 14.28L111 30c-1.75-.25-3.499-.563-5.28-.845l-3.345-8.686-3.437 7.969c-1.687-.282-3.344-.376-5.031-.595l6.031-13.75L94.468 0h5.063l3.062 7.874L105.875 0h5.124l-5.937 14.28zM90.47 0h-4.594v27.25c1.5.094 3.062.156 4.594.343V0zm-8.563 26.937c-4.187-.281-8.375-.53-12.656-.625V0h4.687v21.875c2.688.062 5.375.28 7.969.405v4.657zM64.25 10.657v4.687h-6.406V26H53.22V0h13.125v4.687h-8.5v5.97h6.406zm-18.906-5.97V26.25c-1.563 0-3.156 0-4.688.062V4.687h-4.844V0h14.406v4.687h-4.874zM30.75 15.593c-2.062 0-4.5 0-6.25.095v6.968c2.75-.188 5.5-.406 8.281-.5v4.5l-12.968 1.032V0H32.78v4.687H24.5V11c1.813 0 4.594-.094 6.25-.094v4.688zM4.78 12.968v16.375C3.094 29.531 1.593 29.75 0 30V0h4.469l6.093 17.032V0h4.688v28.062c-1.656.282-3.344.376-5.125.625L4.78 12.968z"></path>
+                    </svg>
+                    <svg class="n-svg" focusable="true" viewBox="225 0 552 1000" height="32px">
+                        <defs>
+                            <radialGradient id="54260309-7575-46f4-a806-31673acf60fe-a" r="75%" gradientTransform="matrix(.38 0 .5785 1 .02 0)">
+                                <stop offset="60%" stop-opacity=".3"></stop>
+                                <stop offset="90%" stop-opacity=".05"></stop>
+                                <stop offset="100%" stop-opacity="0"></stop>
+                            </radialGradient>
+                        </defs>
+                        <path d="M225 0v1000c60-8 138-14 198-17V0H225" fill="#b1060e"></path>
+                        <path d="M579 0v983c71 3 131 9 198 17V0H579" fill="#b1060e"></path>
+                        <path d="M225 0v200l198 600V557l151 426c76 3 136 9 203 17V800L579 200v240L423 0H225" fill="url(#54260309-7575-46f4-a806-31673acf60fe-a)"></path>
+                        <path d="M225 0l349 983c76 3 136 9 203 17L423 0H225" fill="#e50914"></path>
+                    </svg>
+                </a>
+                <a class="helpcenter-logo" href="/en">Help Center</a>
+            </div>
+
+            <div class="actions">
+                <ul class="nav navbar-nav member-sign-in account-dropdown pull-right">
+                    <li class="dropdown">
+                        <a href="#" class="btn btn-med hc-profile-name dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+                            Venky
+                        </a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li>
+                                <a href="https://netflix.com/YourAccount" class="your-account-link">
+                                    Account
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://netflix.com/SignOut?lnkctr=mL" class="signout-link">
+                                    Sign out of Netflix
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+
+                
+            </div>
+        </div>
+
+        <div class="logo-wrapper">
+            <a class="helpcenter-logo" href="/en">Help Center</a>
+        </div>
+
+        
+
+    </div>
+</div>
+
+      
+
+      
+      
+    <!--googleoff: all-->
+    <div class="notifications">
+        
+
+        <div id="notification-holder"></div>
+    </div>
+    <!--googleon: all-->
+
+
+
+      <div id="personalization-placeholder"></div>
+
+      <div class="global-content">
+        
+            <div class="container">
+
+                <div class="breadcrumb-container">
+                    
+                    
+                        <ul class="breadcrumb">
+  <li>
+    <a href="/en">
+      <svg
+        width="24px"
+        height="24px"
+        viewBox="0 0 24 24"
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          points="16.3515625 11.1015625 16.3515625 12.25 9.2421875 12.25 12.4960938 15.53125 11.6757812 16.3515625 7 11.6757812 11.6757812 7 12.4960938 7.8203125 9.2421875 11.1015625"
+        ></polygon>
+      </svg>
+      Back to Help Home
+    </a>
+  </li>
+
+  
+  
+</ul>
+
+                    
+
+                    
+                    
+
+                    
+                    
+                </div>
+
+                
+                
+
+                
+                
+                    
+
+                    
+                    
+                        <h1 class="kb-title">What is Netflix?</h1>
+
+                    
+
+                    
+                    
+                
+
+                <div class="pane-wrapper">
+
+                    <div class="left-pane">
+
+                        
+                        
+
+                        
+                        
+
+                        
+                        
+                            <section dir="LTR" class="kb-article kb-article-variant gradient" data-countries=",PR,PS,PT,PW,PY,QA,AD,AE,AF,AG,AI,AL,AM,AN,AO,AQ,AR,AS,AT,RE,AU,AW,AX,AZ,RO,BA,BB,RS,BD,BE,RU,BF,BG,RW,BH,BI,BJ,BL,BM,BN,BO,SA,BQ,SB,BR,SC,BS,SD,SE,BT,SG,BV,SH,BW,SI,SJ,BY,BZ,SK,SL,SM,SN,SO,CA,SR,CC,SS,ST,CD,SV,CF,CG,SX,CH,SY,CI,SZ,CK,CL,CM,CN,CO,TC,CR,TD,CU,TF,TG,CV,CW,TH,CX,CY,TJ,CZ,TK,TL,TM,TN,TO,TR,TT,DE,TV,TW,TZ,DJ,DK,DM,DO,UA,UG,DZ,UM,EC,US,EE,EG,EH,UY,UZ,VA,VC,ER,ES,VE,ET,VG,VI,VN,VU,FI,FJ,FK,FM,FO,FR,WF,GA,GB,WS,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,YE,HU,ID,YT,IE,IL,IM,IN,IO,ZA,IQ,IR,IS,IT,ZM,JE,ZW,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,">
+                                <div class="page-block">    <div class="c-wrapper">        <div class="c-image"><img class="image" src="https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png" alt="Netflix streaming titles on different devices" /></div>        <div>            <p></p>            <p>Netflix is a subscription-based <a href="https://help.netflix.com/en/node/85">streaming service</a> that allows our members to watch TV shows and movies on an internet-connected device.   </p>            <p><a href="https://help.netflix.com/en/node/24926">Depending on your plan</a>, you can also <a href="https://help.netflix.com/en/node/54816">download TV shows and movies</a> to your iOS, Android, or Windows 10 device and watch without an internet connection.</p>            <p>If you&#x27;re already a member and would like to learn more about using Netflix, visit <a href="https://help.netflix.com/en/node/102377">Getting started with Netflix</a>.</p>        </div>        <hr/>        <div>            <h2>TV Shows &amp; Movies</h2>            <h2>                <img src="https://help.nflxext.com/396a2a39-8d34-4260-b07a-6391fe04ded5_what_is_netflix_2_en.png" class="image_inline" alt="Rows of images at an angle showing different tv shows and movies streaming on Netlfix" /></h2>            <p>Netflix content varies by region and may change over time. You can watch a variety of <a href="https://media.netflix.com/">award-winning Netflix originals, TV shows, movies, documentaries, and more</a>. </p>            <p>The more you watch, the better Netflix gets at <a href="https://help.netflix.com/en/node/100639">recommending</a> TV shows and movies.</p>        </div>        <hr/>        <div>            <h2>Supported Devices</h2>            <h2><img src="https://help.nflxext.com/7ac9b493-ae69-431a-923d-3cb8a79d7e63_what_is_netflix_3_en.png" class="image_inline" alt="Some supported Netflix devices shown from top down" />            </h2>            <p>You can watch Netflix through any <a target="_blank" href="https://devices.netflix.com/">internet-connected device</a> that offers the Netflix app, including smart TVs, game consoles, streaming media players, set-top boxes, smartphones, and                tablets. You can also watch Netflix on your computer using an internet browser. You can review the  <a href="https://help.netflix.com/en/node/23742">system requirements</a> for web browser compatibility, and check our <a href="https://help.netflix.com/en/node/306">internet speed recommendations</a>                to achieve the best performance. </p>            <div class="note">                <div class="icon-wrap"><span class="hcicon-uma-info icon"></span>Note:</div>                <div>A small percentage of devices may not be supported by <a href="https://help.netflix.com/en/node/24926">all plans</a>. </div>            </div>            <p>Need help getting set up? Search our <a href="https://help.netflix.com/">Help Center</a> for the manufacturer of the device you&#x27;re using.</p>            <div class="note">                <div class="icon-wrap"><span class="hcicon-uma-info icon"></span>Note:</div>                <div>The Netflix app may come pre-loaded on certain devices, or you may need to download the Netflix app onto your device. Netflix app functionality may differ between devices.</div>            </div>        </div>        <hr/>        <div>            <h2>Plans and Pricing</h2>            <h2><img src="https://help.nflxext.com/b3e9e3a3-20ff-4974-87d4-162e0a547768_what_is_netflix_4_en.png" class="image_inline" alt="Netflix has plans that let you watch on 1, 2, or 4 screens at the same time" /></h2>            <p>Each <a href="https://help.netflix.com/en/node/24926">Netflix plan</a> determines the number of devices you can watch Netflix on <strong>at the same time</strong> and whether you can watch in High Definition (HD), Full High Definition (FHD), or Ultra High                Definition (UHD). </p>            <p>You can <a href="https://help.netflix.com/en/node/22">change your plan</a> or <a href="https://help.netflix.com/en/node/407">cancel</a> online at any time.            </p>        </div>        <hr/>        <div>            <h2>Get Started</h2>            <h2><img src="https://help.nflxext.com/0af6ce3e-b27a-4722-a5f0-e32af4df3045_what_is_netflix_5_en.png" class="image_inline" alt="" />            </h2>            <p>To start watching Netflix:</p>            <ol>                <li>                    <p>                        Visit <a target="_blank" href="https://www.netflix.com/signup">netflix.com/signup</a>.</p>                </li>                <li>                    <p><a href="https://help.netflix.com/en/node/24926">Choose a plan</a>.                    </p>                </li>                <li>                    <p>Create an account by entering your email address and creating a password.                    </p>                </li>                <li>                    <p>Enter a <a href="https://help.netflix.com/en/node/116380">payment method</a>.                    </p>                </li>            </ol>            <p>As a Netflix member, you are charged once a month on the date you signed up. </p>            <p></p>        </div>    </div></div>
+
+                                
+                            </section>
+                        
+
+                        
+                        
+
+                        
+                        <div id="article-feedback-container"></div>
+
+                        
+  <div class="related-articles-module placement-BELOW_ARTICLE max-3">
+    <h3>Related Articles</h3>
+    <ul class="related-articles" data-tracking-id="9a5ce44d-99b9-401d-8d7c-f08cfd80d295">
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/102377" data-id="102377" data-index="0">Getting started with Netflix</a>
+      </li>
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/41049" data-id="41049" data-index="1">Billing and Payments</a>
+      </li>
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/32950" data-id="32950" data-index="2">Netflix Gift Cards</a>
+      </li>
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/470" data-id="470" data-index="3">Can&#39;t sign in to Netflix</a>
+      </li>
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/10421" data-id="10421" data-index="4">How to create, change, or delete profiles</a>
+      </li>
+    </ul>
+  </div>
+
+
+                    </div>
+
+                    <div class="right-pane">
+                        <div class="wrapper">
+                            
+  <div class="related-articles-module placement-BELOW_ARTICLE max-3">
+    <h3>Related Articles</h3>
+    <ul class="related-articles" data-tracking-id="9a5ce44d-99b9-401d-8d7c-f08cfd80d295">
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/102377" data-id="102377" data-index="0">Getting started with Netflix</a>
+      </li>
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/41049" data-id="41049" data-index="1">Billing and Payments</a>
+      </li>
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/32950" data-id="32950" data-index="2">Netflix Gift Cards</a>
+      </li>
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/470" data-id="470" data-index="3">Can&#39;t sign in to Netflix</a>
+      </li>
+      <li class="related-article">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="8" y="7" width="8" height="2" fill="#050505" />
+          <rect x="8" y="11" width="5" height="2" fill="#050505" />
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M18 4H6V20H18V4ZM4 2V22H20V2H4Z" fill="#050505" />
+        </svg>
+        <a href="/en/node/10421" data-id="10421" data-index="4">How to create, change, or delete profiles</a>
+      </li>
+    </ul>
+  </div>
+
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        
+      </div>
+
+      <div class="footer-push"></div>
+    </div>
+
+    
+
+
+
+<div class="global-page-footer">
+    <div class="global-page-contactbar">
+  <div class="container">
+    <div class="wrapper">
+      <h3 class="bar-title">Need more help?</h3>
+      <a id="contact-us-button" href="/en/contactus" class="h-btn btn-primary-dark">Contact Us</a>
+    </div>
+  </div>
+</div>
+
+
+    <div class="container">
+
+        
+        
+
+        <ul class="footer-links">
+            <li class="footer-link">
+                <a href="/en/legal/termsofuse">Terms of Use</a>
+            </li>
+            <li class="footer-link">
+                <a href="/en/legal/privacy">Privacy</a>
+            </li>
+            
+            <li class="footer-link">
+                <a href="/en/legal/privacy#cookies" class="evidon-trigger toggle-cookie-info">Cookie Preferences</a>
+            </li>
+            
+                
+                
+                <li class="footer-link">
+                    <a href="/en/legal/corpinfo">Corporate Information</a>
+                </li>
+            
+        </ul>
+    </div>
+</div>
+
+
+    
+    <script>
+/*<![CDATA[*/
+    window.netflix = {
+        i18n: {
+            "locale": "en"
+        },
+        urls: {
+            "base": "https:\/\/help.netflix.com",
+            "signIn": "https:\/\/netflix.com" + "/Login?locale=" + "en" + "&nextpage=" + encodeURIComponent(window.location.href),
+            "signUp": "https:\/\/netflix.com\/signup",
+            "signInHelp": "https:\/\/netflix.com" + "/LoginHelp?locale=" + "en"
+        },
+        config: {
+            "page": "Article",
+            "chatCookieName": "cseChatSessionId",
+            "chatForce": true,
+            "clBatchInterval": 10000,
+            "useVisitorId": false,
+            "q": null,
+            "isTest": false,
+            "cl": "/cl2",
+            "swiftypeEngine": "Tw8pfjz8Wo4QxU_x2ZYt",
+            "swiftypeDocumentType": "article",
+            "searchAutocompleteEnabled": true,
+            "oneTrust": true,
+            "useSearchClient": false
+        },
+        data: {
+            "source": "helpCenter",
+            "survey": null,
+            "sourceHiddenLinks": false,
+            "tests": "10880~2~10753~2~44738~1~8963~2~52036~2~50501~1~9799~2~50313~2~52809~1~50123~2~11340~2~38031~2~44496~3~8083~1~41940~2~45080~4~15258~1~48288~1~50785~3~50466~2~53027~3~53157~12~50534~1~6951~1~6952~1~14824~2~8169~3~6954~2~33516~1~53740~2~12589~11~53165~4~8047~2~49074~2~47604~3~7544~1~8697~2~9915~1~47100~1~48253~1~10687~2~43903~2",
+            "isRtl": false,
+            "isAgent": false,
+            "geoCountry": "IN",
+            "isMember": true,
+            "isMemberSignedIn": true,
+            phone: {
+                "appHelpDeepLink": "https:\/\/netflix.com\/mobilehelp",
+                "enablePhoneMobileDeepLink": false
+            },
+            article: {
+                "lang": null,
+                "tnid": "412",
+                "alias": null,
+                "nodeid": "412",
+                "allCountries": null,
+                "defaultCountry": "IN",
+                "legalDocument": false,
+                "selectedCountry": "IN",
+                "specifiedCountry": null,
+                "renderAsTabs": false,
+                "renderAsList": false            }
+        },
+        l10n: {
+            "localeOverride": "en",
+            "no": "No",
+            "yes": "Yes",
+            "close": "Close",
+            "not.sure": "Not Sure",
+            "next": "Next",
+            "other": "Other",
+            "search": "Search",
+            "submit": "Submit",
+            "sign.in": "Sign In",
+            "sign.up": "Join Netflix",
+            "get.help": "Get Help",
+            "skip": "Skip",
+            "previous": "Previous",
+            "optional": "(Optional) We do not respond to individual feedback. Please do not leave personal information.",
+            "learn.more": "Learn More",
+            "help.center": "Help Center",
+            "skip.for.now": "Skip For Now",
+            "read.article": "Read Article",
+            "call.us.in.app": "Call Us In-app",
+            "what.went.wrong": "What went wrong?",
+            "select.a.country": "Select a country",
+            "already.a.member": "Already a member?",
+            "no.results.found": "No results found",
+            "not.ready.to.signin": "Not ready to sign in?",
+            "recommended.for.you": "Recommended for you",
+            "need.help.signing.in": "Need help signing in?",
+            "thanks.for.your.feedback": "Thanks for your feedback.",
+            "was.this.article.helpful": "Was this article helpful?",
+            "padme.search.kb.noresults": "No results found",
+            "additional.search.results": "Additional search results",
+            "the.steps.did.not.resolve": "The steps in the article did not resolve my problem",
+            "the.wording.was.confusing": "The wording used in this article made it confusing",
+            "what.do.you.need.help.with": "What do you need help with?",
+            "the.article.did.not.address": "This article did not address what I was searching for",
+            "padme.pages.did.this.resolve": "Did this resolve your issue?",
+            "sign.in.for.personalized.help": "Sign in for personalized help",
+            "let.us.know.how.we.can.improve": "(Optional) Let us know how we can do better. We do not respond to individual feedback. Please do not leave personal information.",
+            "note.currently.unable.to.respond": "Note: We're currently unable to respond to individual feedback",
+            "currently.viewing.information.for": "Currently viewing information for:",
+            "thanks.for.your.feedback.improvement": "Thanks for your feedback! Any suggestions for further improvement?",
+            "information.not.available.for.country": "We're sorry, this information is not available for {0}.",
+            "viewing.information.intended.for.country": "You're currently viewing information intended for <strong>{0}<\/strong>, which may not be applicable to you. Select your country below.",
+            "padme.pages.isnetflixdown.status.up.body": "We are not currently experiencing an interruption to our streaming service.",
+            "padme.pages.isnetflixdown.status.up.header": "Netflix is up!",
+            "characters.left": "[NUMBER] characters left",
+            "describe.your.issue": "Describe your issue",
+            "chat.recording.notice": "To improve Netflix Customer Service, chats may be monitored or recorded.",
+            "received.and.email.about.account": "Received an email about an account email change",
+            "netflix.says.cant.find.account": "Netflix says 'Can't find account with this email address.'",
+            "please.provide.a.short.description": "Please provide a short description of your issue",
+            "recommended.popular.topics": "Popular topics",
+            "padme.pages.contactus.chatbox.title": "Netflix Customer Service",
+            "chat.contactus.chatbox.endchat.question": "End Chat?",
+            "chat.contactus.chatbox.end": "End",
+            "padme.pages.contactus.chatbox.submit": "Submit",
+            "padme.pages.contactus.chatbox.cancel": "Cancel",
+            "chat.new.message": "New message",
+            "chat.ewt.wait.time": "Wait time: {0} minutes",
+            "chat.write.reply": "Enter a reply",
+            "chat.mop.enter.new.payment": "Enter new payment information",
+            "chat.mop.enter.new.payment.verification": "Enter payment info for verification",
+            "chat.mop.agentname.cant.see": "{0} cannot see this",
+            "chat.mop.agent.cant.see": "The agent cannot see this",
+            "chat.email.chat.transcript": "Enter the email you would like the chat transcript sent to",
+            "chat.email.chat.transcript.sent": "Transcript sent!",
+            "padme.pages.contactus.chatbox.transcript": "Email me a transcript of this chat",
+            "chat.email.sent.transcript.email": "We've sent a transcript of this chat to the email address that was entered.",
+            "chat.mop.first.name.required": "First Name is Required",
+            "chat.mop.last.name.required": "Last Name is Required",
+            "chat.mop.card.required": "Credit or Debit card number is required",
+            "chat.mop.zip.code.required": "Zip code is required",
+            "chat.mop.cvv": "Security Code (CVV)",
+            "chat.mop.cvv.required": "Security Code (CVV) is required",
+            "chat.mop.expiration.required": "Expiration date is required",
+            "chat.mop.expiration.format": "Expiration date must be entered in MM\/YYYY format",
+            "chat.mop.invalid.exp": "Invalid Expiration date",
+            "chat.mop.first.name": "First name on card",
+            "chat.mop.last.name": "Last name on card",
+            "chat.mop.zip": "Billing zip code",
+            "chat.mop.number": "Card Number",
+            "chat.mop.last.eight.digits.of.number": "Last 8 digits of card number",
+            "chat.mop.expiration": "Expiration Date (MM\/YYYY)",
+            "chat.mop.dob": "Date of Birth (YYYY-MM-DD)",
+            "chat.mop.dob.required": "Date of Birth is Required",
+            "padme.pages.chat.mop.eudd": "Direct Debit Account Number:",
+            "padme.pages.chat.mop.upi": "UPI ID:",
+            "padme.pages.chat.mop.upi.invalid": "Enter a valid UPI ID",
+            "chat.mop.upi.required": "UPI ID is Required",
+            "chat.mop.account.number.required": "Account Number is Required",
+            "chat.mop.routing.number.required": "Routing Number is Required",
+            "chat.mop.digit.required": "Check Digit is Required",
+            "chat.mop.branch.number": "Branch Number",
+            "chat.mop.routing.number": "Routing Number",
+            "chat.mop.account.number": "Account Number",
+            "chat.mop.digit": "Digit",
+            "chat.mop.card.invalid": "Credit or Debit card number is invalid",
+            "chat.mop.paypal.billing.id.required": "BA Billing ID is Required",
+            "chat.mop.paypal.billing.id.valid": "BA Billing ID must be valid",
+            "chat.mop.paypal.billing.id": "PayPal Billing ID",
+            "chat.resolve.issue": "Did we resolve your issue?",
+            "padme.pages.contactus.chatbox.send": "Send",
+            "padme.pages.contactus.chatbox.endchat": "End Chat",
+            "padme.pages.contactus.chatbox.clickhere": "Click Here",
+            "padme.pages.contactus.chatbox.welcome": "Welcome to Netflix Chat",
+            "chat.mop.bank.name": "Bank Name",
+            "chat.mop.bank.name.required": "Bank Name is Required",
+            "chat.mop.account.type": "Account Type",
+            "chat.mop.account.type.required": "Account Type is Required",
+            "chat.mop.account.type.CHECKING": "Checking",
+            "chat.mop.account.type.SAVINGS": "Savings",
+            "netflix": "Netflix",
+            "chat.mop.dob.invalid": "Valid Date of Birth is Required",
+            "chat.connecting": "Connecting",
+            "padme.pages.contactus.chat.chatEnded": "This chat session has ended.",
+            "difficult": "Difficult",
+            "dissatisfied": "Dissatisfied",
+            "dont.know.not.applicable": "Don't know \/ Not applicable",
+            "easy": "Easy",
+            "neutral": "Neutral",
+            "satisfied": "Satisfied",
+            "very.difficult": "Very difficult",
+            "very.dissatisfied": "Very dissatisfied",
+            "very.easy": "Very easy",
+            "very.satisfied": "Very Satisfied",
+            "you.can.start.a.new.chat": "You can <button>start a new chat<\/button>.",
+            "your.issue": "Your Issue:",
+            "tell.us.more": "Tell us more and we'll find the best solution for you",
+            "get.in.touch": "Get in touch:",
+            "try.these.recommendations": "Try these recommendations:",
+            "recommended": "Recommended",
+            "get.in.touch.directly": "Or get in touch with us directly",
+            "describe.your.issue.placeholder": "Describe your issue",
+            "more.devices": "More Devices",
+            "select.your.device": "Select Your Device",
+            "still.having.trouble": "Still Having Trouble?",
+            "recommended.solution": "Recommended Solution",
+            "try.another.way": "Try Another Way",
+            "get.support.title": "Get support:"
+        }
+    };
+/*]]>*/
+</script>
+
+
+    <script crossorigin="anonymous" src="https://help.nflxext.com/helpcenter/manifest_0e3e3d16eb64fdaf1e8e.js"></script>
+    <script crossorigin="anonymous" src="https://help.nflxext.com/helpcenter/common_498feb9b82d0a0f3a7f7.js"></script>
+
+    
+    
+            <script crossorigin="anonymous" src="https://help.nflxext.com/helpcenter/article_369998cf5cf89a2c5655.js"></script>
+        
+
+    <script crossorigin="anonymous" src="/interface/chat/supportscript?forceCountry=IN&amp;locale=en"></script>
+
+
+  </body>
+</html>
